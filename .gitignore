@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.env
+
+# Output files
+public/data/products.json
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Mac/Linux Trash
+.Trashes
