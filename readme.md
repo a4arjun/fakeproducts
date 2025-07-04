@@ -87,7 +87,7 @@ This JSON file can be used directly in any frontend or mock app.
 You can use the built-in Express API to serve the generated data.
 
 ```bash
-node server.js
+npm start
 ```
 
 | Method | Endpoint                     | Description                    |
