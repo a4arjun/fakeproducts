@@ -12,6 +12,9 @@ public/data/products.json
 #raw files
 public/raw
 
+#image resizer script
+image-resizer.js
+
 # System
 .DS_Store
 Thumbs.db
