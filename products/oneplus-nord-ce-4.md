@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "OnePlus"
 price: 24999
-image: "https://example.com/images/oneplus_nord_ce4.jpg"
+image: "/images/oneplus-nord-ce4.png"
 keywords:
   - "smartphone"
   - "OnePlus"

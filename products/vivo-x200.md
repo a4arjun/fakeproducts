@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Vivo"
 price: 65000
-image: "https://example.com/images/vivo_x200.jpg"
+image: "/images/vivo-x200.png"
 keywords:
   - "smartphone"
   - "Vivo"

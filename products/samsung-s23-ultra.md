@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Samsung"
 price: 99999
-image: "https://example.com/images/samsung_s23_ultra.jpg"
+image: "/images/samsung-s23-ultra.png"
 keywords:
   - "smartphone"
   - "mobile"

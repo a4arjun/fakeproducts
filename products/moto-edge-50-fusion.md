@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Motorola"
 price: 22999
-image: "https://example.com/images/moto_edge_50_fusion.jpg"
+image: "/images/moto-edge-50-fusion.png"
 keywords:
   - "smartphone"
   - "Motorola"

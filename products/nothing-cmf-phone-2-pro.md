@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "CMF by Nothing"
 price: 24999
-image: "https://example.com/images/cmf_phone_2_pro.jpg"
+image: "/images/nothing-cmf-2-pro.png"
 keywords:
   - "smartphone"
   - "Nothing"

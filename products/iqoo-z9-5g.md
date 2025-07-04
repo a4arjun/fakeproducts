@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "iQOO"
 price: 15999
-image: "https://example.com/images/iqoo_z9_5g.jpg"
+image: "/images/iqoo-z9-5g.png"
 keywords:
   - "smartphone"
   - "iQOO"

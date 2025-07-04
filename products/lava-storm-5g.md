@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Lava"
 price: 11999
-image: "https://example.com/images/lava_storm_5g.jpg"
+image: "/images/lava-storm-5g.png"
 keywords:
   - "smartphone"
   - "Lava"

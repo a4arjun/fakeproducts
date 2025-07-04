@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Infinix"
 price: 11999
-image: "https://example.com/images/infinix_zero_5g_2023.jpg"
+image: "/images/infinix-zero-5g.png"
 keywords:
   - "smartphone"
   - "Infinix"

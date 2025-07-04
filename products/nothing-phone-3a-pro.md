@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Nothing"
 price: 34999
-image: "https://example.com/images/nothing_phone_3a_pro.jpg"
+image: "/images/nothing-3a-pro.png"
 keywords:
   - "smartphone"
   - "Nothing"

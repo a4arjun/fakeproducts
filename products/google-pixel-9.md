@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Google"
 price: 85000
-image: "https://example.com/images/pixel_9.jpg"
+image: "/images/google-pixel-9.png"
 keywords:
   - "smartphone"
   - "Pixel"

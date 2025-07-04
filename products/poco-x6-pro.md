@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Poco"
 price: 26999
-image: "https://example.com/images/poco_x6_pro.jpg"
+image: "/images/poco-x6-pro.png"
 keywords:
   - "smartphone"
   - "Poco"

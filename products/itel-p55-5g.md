@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Itel"
 price: 9499
-image: "https://example.com/images/itel_p55_5g.jpg"
+image: "/images/itel-p55-5g.png"
 keywords:
   - "smartphone"
   - "Itel"

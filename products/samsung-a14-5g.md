@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Samsung"
 price: 13999
-image: "https://example.com/images/samsung_galaxy_a14_5g.jpg"
+image: "/images/samsung-a14-5g.png"
 keywords:
   - "smartphone"
   - "Samsung"

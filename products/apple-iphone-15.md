@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Apple"
 price: 89999
-image: "https://example.com/images/iphone_15.jpg"
+image: "/images/apple-iphone-15.png"
 keywords:
   - "smartphone"
   - "iPhone"

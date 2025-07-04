@@ -6,8 +6,11 @@ yarn-error.log*
 dist/
 .env
 
-# Output files
+# Output file(s)
 public/data/products.json
+
+#raw files
+public/raw
 
 # System
 .DS_Store

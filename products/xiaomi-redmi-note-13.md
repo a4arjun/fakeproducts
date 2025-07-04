@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Redmi"
 price: 14999
-image: "https://example.com/images/redmi_note_13.jpg"
+image: "/images/xiaomi-redmi-note-13.png"
 keywords:
   - "smartphone"
   - "Redmi"

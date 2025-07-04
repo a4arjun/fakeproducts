@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Realme"
 price: 17999
-image: "https://example.com/images/realme_12_plus_5g.jpg"
+image: "/images/realme-12-plus-5g.png"
 keywords:
   - "smartphone"
   - "Realme"

@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Vivo"
 price: 27999
-image: "https://example.com/images/vivo_v30e.jpg"
+image: "/images/vivo-v30-e.png"
 keywords:
   - "smartphone"
   - "Vivo"

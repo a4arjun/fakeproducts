@@ -2,17 +2,18 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "gray-matter": "^4.0.3"
+    "gray-matter": "^4.0.3",
+    "sharp": "^0.34.2"
   },
   "scripts": {
     "generate:products": "node product-generator.js",
+    "resize:images": "node image-resizer.js",
     "start": "node server.js"
   },
   "name": "fakeproducts",
   "version": "1.0.0",
   "description": "a fake product database",
   "main": "server.js",
-  "devDependencies": {},
   "author": "Arjun Venugopal",
   "license": "ISC",
   "type": "module"

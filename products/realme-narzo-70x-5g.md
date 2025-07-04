@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Realme"
 price: 11999
-image: "https://example.com/images/narzo_70x_5g.jpg"
+image: "/images/realme-narzo-70-5g.png"
 keywords:
   - "smartphone"
   - "Realme"

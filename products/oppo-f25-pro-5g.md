@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Oppo"
 price: 23999
-image: "https://example.com/images/oppo_f25_pro_5g.jpg"
+image: "/images/oppo-f25-pro-5g.png"
 keywords:
   - "smartphone"
   - "Oppo"

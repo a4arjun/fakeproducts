@@ -5,7 +5,7 @@ category: electronics
 subcategory: mobile
 brand: Apple
 price: 109999
-image: https://example.com/images/iphone_16.jpg
+image: "/images/apple-iphone-16.png"
 keywords:
   - smartphone
   - iPhone

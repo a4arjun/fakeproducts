@@ -5,7 +5,7 @@ category: "electronics"
 subcategory: "mobile"
 brand: "Motorola"
 price: 14999
-image: "https://example.com/images/moto_g64_5g.jpg"
+image: "/images/moto-g64-5g.png"
 keywords:
   - "smartphone"
   - "Motorola"
